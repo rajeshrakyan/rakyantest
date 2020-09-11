@@ -1,0 +1,83 @@
+﻿Mandy (9/11/2020, 7:13:30 PM): Hello!  My name is Mandy.  How can I help you today? 
+Me (9/11/2020, 7:13:38 PM): Hi 
+Me (9/11/2020, 7:13:56 PM): We have a website agqa.com on amazon web service, which we want to shift to yours as managed vps 
+Mandy (9/11/2020, 7:14:54 PM): Hi Rajesh! Sure thing, sounds good. What CMS is your website based on? 
+Mandy (9/11/2020, 7:15:11 PM): And do you have a timeframe for moving over? We can migrate you for free. 
+Me (9/11/2020, 7:15:12 PM): It is a custom built on .net framework 2.0 and MsSQl server database 
+Me (9/11/2020, 7:15:32 PM): It also uses some third part controls from Telerik 
+Mandy (9/11/2020, 7:17:22 PM): Thank you for the info, Rajesh. How soon do you need your server up? Because we do have Windows VPS plans? 
+Me (9/11/2020, 7:18:18 PM): We need as as possible. But we first want to make sure about migration issues. Please note that there is a cron job too which emails reports every night, so you will need to configure the scheduler too 
+Me (9/11/2020, 7:19:05 PM): At present we are using around 160 gb of space and need to free cache folders every 15 days 
+Mandy (9/11/2020, 7:19:51 PM): You will be able to schedule and arrange everything with our team. Both migration and anything related to technical support. We are available for you 24/7. 
+Mandy (9/11/2020, 7:20:35 PM): Migration usually takes 2-7 days but your site will be live the whole time except when the final sync occurs but, as previously stated, you will arrange and test everything with our team. 
+Mandy (9/11/2020, 7:21:12 PM): From everything you said, regarding disk space I mean, our 16GB RAM VPS will be a good fit for you because it has 200GB SSD. 
+Me (9/11/2020, 7:21:41 PM): ok, do you have a regular disk plan too ? 
+Mandy (9/11/2020, 7:23:00 PM): 16 GB RAM
+8 vCPU
+200 GB SSD Disk Space
+10 TB Bandwidth
+Windows
+Plesk Onyx
++ Free 100GB Backup
+$219/mo 
+Mandy (9/11/2020, 7:23:09 PM): Can you please elaborate on that a bit further? 
+Mandy (9/11/2020, 7:23:19 PM): What do you mean by regular disk plan? 
+Me (9/11/2020, 7:23:40 PM): I mean if you have a plan with normal hard disk instead of SSD 
+Me (9/11/2020, 7:23:55 PM): to bring down the cost 
+Mandy (9/11/2020, 7:25:03 PM): Oh, I see. SSD is the only option on VPS. Are you maybe interested in dedicated server? 
+Me (9/11/2020, 7:25:33 PM): Dedicated Server probably will be more costly. And we also need a managed server 
+Mandy (9/11/2020, 7:27:59 PM): Of course, we will give you a fully-managed service. Rajesh, would it be okay if I connect you with our senior agent for further assistance? 
+Me (9/11/2020, 7:28:13 PM): Sure 
+Mandy (9/11/2020, 7:29:52 PM): Joe is available and he'd be happy to assist. He's an expert. Please give him a moment to review our chat. 
+Me (9/11/2020, 7:30:09 PM): Sure 
+Joe (9/11/2020, 7:30:11 PM): Hello!  My name is Joe.  How can I help you today? 
+Me (9/11/2020, 7:30:30 PM): We have a website agqa.com on amazon web service, which we want to shift to yours as managed vps 
+Me (9/11/2020, 7:30:48 PM): It is a custom built on .net framework 2.0 and MsSQl server database 
+Joe (9/11/2020, 7:30:51 PM): Hello there Rajesh! looks like you want to setup a Windows VPS - sure thing we can migrate that ovr 
+Joe (9/11/2020, 7:31:02 PM): oh 
+Joe (9/11/2020, 7:31:48 PM): so we can do that- as far as .net framework and can have support assist as well with the MSSQL DB -we would be able to provide MSSQL Express Edition 
+Joe (9/11/2020, 7:31:49 PM): 2019 
+Me (9/11/2020, 7:32:34 PM): We have to see if the existing codes work fine in 2019 or not. Ideally it should unless the coder has used some part of code which has been deprecated 
+Joe (9/11/2020, 7:32:42 PM): or we can use 2016- 
+Me (9/11/2020, 7:32:46 PM): Which hosting plan you suggest ? 
+Joe (9/11/2020, 7:33:12 PM): well- it depends on your applications and what you are running- and how much disk space you require 
+Joe (9/11/2020, 7:33:21 PM): do you know how much RAM and disk space you may need ? 
+Me (9/11/2020, 7:33:33 PM): At present we are using AWS and disk space we have is 170gb 
+Joe (9/11/2020, 7:33:56 PM): are you currently using Plesk as well? 
+Me (9/11/2020, 7:34:15 PM): No we use RDP to manage , which needs to change. We want a managed server 
+Joe (9/11/2020, 7:34:46 PM): oh ok- you would still have 2 free RDP licenses included if you want to activate that - support can assist 
+Joe (9/11/2020, 7:35:06 PM): to have a fully managed server- we would need a control panel on the server- in this case Plesk - 
+Joe (9/11/2020, 7:35:20 PM): Also, then we can assist with migration as well 
+Joe (9/11/2020, 7:35:40 PM): and now let me look at the 170GB or close - for space 
+Joe (9/11/2020, 7:36:06 PM): I know Mandy had mentioned a VPS - is that the direction you are leaning? 
+Joe (9/11/2020, 7:36:18 PM): in that case to  get close to your space requirements you have : 
+Joe (9/11/2020, 7:36:27 PM): https://www.liquidweb.com/products/vps/ 
+Me (9/11/2020, 7:36:38 PM): she later suggested a dedicated managed server and then handed over to you 
+Joe (9/11/2020, 7:37:02 PM): I would recommend a dedicated server as well-still have admin access for you- and have more resources and it is your own server 
+Joe (9/11/2020, 7:37:32 PM): let me look at an entry level Windows dedicated server- I can also discount this server we choose at 40% off for the first 3 months to help with cost- 
+Joe (9/11/2020, 7:37:48 PM): as you migrate/test and approve - no contracts and is month to month 
+Joe (9/11/2020, 7:38:22 PM): are you ok with Windows OS 2019 Standard? 
+Joe (9/11/2020, 7:38:29 PM): 64-bit 
+Joe (9/11/2020, 7:38:36 PM): or we can do 2016 
+Me (9/11/2020, 7:38:54 PM): I think so , our main aim is that site in .net framework 2.0 should work without any issues as it is working now 
+Joe (9/11/2020, 7:39:32 PM): we would be able to migrate then you can test and approve-before we point the DNS to the new server.  As you test and approve with us- your site remains online with your current provider and server 
+Joe (9/11/2020, 7:39:45 PM): so we'll make sure all works before the final sync 
+Me (9/11/2020, 7:40:02 PM): That sounds great. So please point me to a plan that will be suitable for us 
+Joe (9/11/2020, 7:40:16 PM): Acronis: Liquid Web Cloud - 250GB Storage
+Processor: Intel Xeon E3-1230 v6 Quad-Core
+OS: Windows Server (+Windows 2019 Standard 64-bit) (+Eset File Security) (+SQL Server 2019 - Express Edition)
+ControlPanel: No Control Panel - Core Managed
+RAM: 32GB DDR4 SDRAM
+HD1: 2 x SSD (+240 GB SSD) (+Software RAID 1)
+HD2: Single SATA HDD (7,200 RPM) (+1 TB SATA HDD (7,200 RPM))
+HD3: No Additional Storage Array
+NVMe: No NVMe Storage
+SERVERCHASSIS: Standard - Single PSU - No Hot Swap Bays
+ProtectionRemediation: No Server Protection Package Required
+DDOSProtection: Standard DDoS Attack Protection (up to 2gbps)
+ExtraIp: Public IP Addresses (+1 Public IP Address)
+Bandwidth: 5 TB Outbound Bandwidth (+Gigabit Uplink Port)
+Monthly Fee: $239.00 /mo 
+Joe (9/11/2020, 7:40:26 PM): https://cart.liquidweb.com/checkout/resume/WzIsMTg1NDcsWyJEUy4xMjMwdjYiLDEsMSx7fSxbWyJ3aW5vcyIsIncyazE5czY0Il0sWyJNc1NRTCIsIjIwMTkuRXhwcmVzcyIsIjAiXSxbIk9TIiwid2luNGNvcmUiXSxbIldpbkFWIiwiRXNldEZpbGVTZWN1cml0eSJdXSwiY2FydCJdXQ 
+Joe (9/11/2020, 7:40:53 PM): this is an entry level dedicated server but has all that you need for allocated resources and some room for growth as well 
+Me (9/11/2020, 7:41:06 PM): Thanks. I will go through it and get back soon 
